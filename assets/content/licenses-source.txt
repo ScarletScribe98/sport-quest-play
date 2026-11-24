@@ -1,0 +1,23 @@
+# SportQuest — лицензии медиа, 21.11.2026
+# Формат: имя файла — ссылка — автор — лицензия
+
+# Wikimedia Commons (свободные лицензии)
+quiz_k4_shuttlecock.jpg — https://commons.wikimedia.org/wiki/File:Volant_badminton.jpg — Badplayer~commonswiki — CC BY-SA 2.5
+quiz_k4_shuttlecock_crop.jpg — https://commons.wikimedia.org/wiki/File:Volant_badminton.jpg — Badplayer~commonswiki — CC BY-SA 2.5 (кадрирование того же файла: оставлены только перья и нитяное крепление, пробковая головка убрана)
+quiz_k3_golf_macro.jpg — https://commons.wikimedia.org/wiki/File:Golf-ball_up_close.jpg — TBIT (источник: Pixabay) — CC0
+photoblitz_barbell.jpg — https://commons.wikimedia.org/wiki/File:Barbell.jpg — Richardkiwi — CC BY-SA 3.0
+photoblitz_show_jumping.jpg — https://commons.wikimedia.org/wiki/File:Show_jumping.jpg — Caygill — CC BY-SA 3.0
+anim_squat.gif — https://commons.wikimedia.org/wiki/File:Squats.gif — Wensceslao — CC BY-SA 4.0
+
+# Картинки из ChatGPT (папка chatgpt/)
+quiz_k1_football_errors.png — сгенерировано ChatGPT, 21.11.2026
+quiz_k13_throwin_errors.png — сгенерировано ChatGPT, 21.11.2026
+quiz_k19_silhouette_bolt.png — сгенерировано ChatGPT, 21.11.2026
+quiz_k20_silhouette_ronaldo.png — сгенерировано ChatGPT, 21.11.2026
+round2_director_errors.png — сгенерировано ChatGPT, 21.11.2026
+quiz_k14_tt_rubber_macro.png — сгенерировано ChatGPT, 21.11.2026
+photoblitz_curling.png — сгенерировано ChatGPT, 21.11.2026
+photoblitz_fencing.png — сгенерировано ChatGPT, 21.11.2026
+photoblitz_archery.png — сгенерировано ChatGPT, 21.11.2026
+photoblitz_field_hockey.png — сгенерировано ChatGPT, 21.11.2026
+photoblitz_kayak.png — сгенерировано ChatGPT, 21.11.2026
